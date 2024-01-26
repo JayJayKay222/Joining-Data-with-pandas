@@ -4,11 +4,11 @@
 - Netflix Daily Top 10
 
 #### Join operations
-- Right
-- Left
-- Inner
-- Outer
-- Anti
-- merge
-- append
-- concat 
+- Right joins 
+- Left joins 
+- Inner joins
+- Outer joins
+- Anti joins
+- merge method
+- append method
+- concat method
